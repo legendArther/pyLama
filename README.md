@@ -90,7 +90,3 @@ pip install tkinter python-dotenv replicate
 - The app currently uses the `meta/meta-llama-3-8b-instruct` model. You can switch to other models supported by Replicate by updating the `replicate.run` call.
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
